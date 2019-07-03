@@ -1,7 +1,7 @@
 # WordTranslatorScript
-Using an Yandex's Translation API it takes a formatted .txt file of words you want to translate and translates them outputting a new translation.txt file.
+Using an Yandex's Translation API the script takes a .txt file of words and translates them outputting a new translation.txt file.
 
-The translation is primarily set to Polish -> English, but can be easily changed to whatever language is supported by the tranlation API.
+The translation is primarily set to Polish -> English, but can be easily changed to whatever language is supported by the translation API.
 
 # How to use the script
 0. Get your own Yandex's Translator API key [here](https://translate.yandex.com/developers/keys/) and paste it to the __keys.py__ file.
