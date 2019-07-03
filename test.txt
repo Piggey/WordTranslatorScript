@@ -1,7 +1,5 @@
-ja chcę
-bawić się
-tańczyć
-parostatek
-piękny
+﻿taniec
+zabawa
 rejs
-statek na parę
+statek
+parostatek
