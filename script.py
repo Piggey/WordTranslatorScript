@@ -28,7 +28,7 @@ for word in wordSet:
     clear()
     print(str(Done_num) + "/" + str(All_num) + " done.")
     word_trd = translation(word)
-    Done_num+=1
+    Done_num += 1
     wordSet_trd.write(word + " - " + word_trd + "\n")
     
 
